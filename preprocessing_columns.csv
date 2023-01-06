@@ -1,0 +1,76 @@
+Column Name,Required/ Not required
+id,#Not required
+listing_url,#Not required
+scrape_id,#Not required
+last_scraped,#Not required
+source,#Not required
+name,#Not required
+description,#Not required
+neighborhood_overview,#Not required
+picture_url,#Not required
+host_id,#Not required
+host_url,#Not required
+host_name,#Not required
+host_since,#
+host_location,#
+host_about,#Not required
+host_response_time,#Not required
+host_response_rate,#
+host_acceptance_rate,#
+host_is_superhost,#Encode
+host_thumbnail_url,#Not requried
+host_picture_url,#Not required
+host_neighbourhood,#Not required
+host_listings_count,#
+host_total_listings_count,#Not required
+host_verifications,#
+host_has_profile_pic,#
+host_identity_verified,#
+neighbourhood,#Not required
+neighbourhood_cleansed,#Not required
+neighbourhood_group_cleansed,#Not required
+latitude,#Not required
+longitude,#Not required
+property_type,#Encode
+room_type,#Encode
+accommodates,#
+bathrooms,#Not required
+bathrooms_text,#Encode
+bedrooms,#
+beds,#
+amenities,#Split and accommodate in data
+price,"#Preprocess (Remove $ and,)"
+minimum_nights,#
+maximum_nights,#
+minimum_minimum_nights,#
+maximum_minimum_nights,#
+minimum_maximum_nights,#
+maximum_maximum_nights,#
+minimum_nights_avg_ntm,#
+maximum_nights_avg_ntm,#
+calendar_updated,#
+has_availability,#
+availability_30,#
+availability_60,#
+availability_90,#
+availability_365,#
+calendar_last_scraped,#Not required
+number_of_reviews,#
+number_of_reviews_ltm,#
+number_of_reviews_l30d,#
+first_review,#Not required
+last_review,#Not required
+review_scores_rating,#Target
+review_scores_accuracy,#Target
+review_scores_cleanliness,#Target
+review_scores_checkin,#Target
+review_scores_communication,#Target
+review_scores_location,#Target
+review_scores_value,#Target
+license,#Not required
+instant_bookable,#Encode
+calculated_host_listings_count,#
+calculated_host_listings_count_entire_homes,#
+calculated_host_listings_count_private_rooms,#
+calculated_host_listings_count_shared_rooms,#
+reviews_per_month,#

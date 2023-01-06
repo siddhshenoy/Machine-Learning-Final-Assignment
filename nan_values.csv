@@ -1,0 +1,27 @@
+,NaN Column Name,Count
+0,calendar_updated,7566
+1,neighbourhood_group_cleansed,7566
+2,bathrooms,7566
+3,license,7566
+4,host_about,4010
+5,host_response_rate,3634
+6,host_response_time,3634
+7,host_acceptance_rate,3375
+8,neighborhood_overview,3372
+9,neighbourhood,3372
+10,host_neighbourhood,2332
+11,review_scores_value,1487
+12,review_scores_checkin,1485
+13,review_scores_location,1485
+14,review_scores_accuracy,1481
+15,review_scores_communication,1481
+16,review_scores_cleanliness,1480
+17,review_scores_rating,1357
+18,last_review,1357
+19,first_review,1357
+20,reviews_per_month,1357
+21,host_location,1334
+22,bedrooms,205
+23,description,155
+24,beds,94
+25,bathrooms_text,4
